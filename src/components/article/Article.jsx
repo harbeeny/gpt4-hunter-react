@@ -1,10 +1,11 @@
 import React from 'react'
 import './article.css'
 
-const Article = ({imgUrl, date, title}) => (
+const Article = ({imgUrl, date, title}) => {
+  return (
     <div className='gpt4__blog-container_article'>
       <div className='gpt__blog-container_article-image'>
-        <img src={imgUrl} alt='blog_img'/>
+        <img src={imgUrl} alt='blog_image'/>
       </div>
       <div className='gpt4__blog-container_article-content'>
         <div>
@@ -15,5 +16,5 @@ const Article = ({imgUrl, date, title}) => (
       </div>
     </div>
   );
-
+}
 export default Article
