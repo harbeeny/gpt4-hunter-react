@@ -5,7 +5,7 @@ import { Feature } from '../../components'
 const featuresData= [
   {
     title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    text: 'GPT-4 builds trust by giving clear, accurate, and empathetic responses. It supports user education, encourages feedback, and adapts to preferences. With regular updates and responsive support, it contributes to a strategy fostering user trust in the chat application.',
   },
   {
     title: 'Become the tended active',
