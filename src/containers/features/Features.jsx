@@ -8,7 +8,7 @@ const featuresData= [
     text: 'GPT-4 builds trust by giving clear, accurate, and empathetic responses. It supports user education, encourages feedback, and adapts to preferences. With regular updates and responsive support, it contributes to a strategy fostering user trust in the chat application.',
   },
   {
-    title: 'Become the tended active',
+    title: 'Getting Real Data in Real Time',
     text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
   },
   {
