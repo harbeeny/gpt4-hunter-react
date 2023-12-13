@@ -14,7 +14,7 @@ const Blog = () => (
         />
       </div>
       <div className="gpt4__blog-container_groupB">
-        <Article imgUrl={blog02} date="Aug 12, 2019" title="GPT-4 and Open  AI is the future. Let us exlore" />
+        <Article imgUrl={blog02} date="Aug 20, 2019" title="GPT-4 and Open  AI is the future. Let us exlore" />
         <Article imgUrl={blog03} date="Dec 16, 2020" title="GPT-3 and Open  AI is the future. Let us exlore how it is?" />
         <Article imgUrl={blog04} date="May 7, 2021" title="Open  AI is the future. Let us exlore how it is?" />
         <Article imgUrl={blog05} date="Sep 26, 2023" title="GPT-4 and Open  AI is the future. Let us exlore!" />
